@@ -1,5 +1,9 @@
 # CORD-19 Data Explorer: A Python Data Analysis & Web App Project
 
+## Live Demo
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://frameworksassignment-qpucpoonbhssnauhkvo47k.streamlit.app/)
+
 ---
 
 ## Overview
@@ -70,11 +74,11 @@ Welcome to the **CORD-19 Data Explorer**, a Python project that showcases data a
 
 ---
 
-## Tools Used
+## Technologies Used
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-1A1A1A?style=flat&logo=seaborn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white) 
+![Seaborn](https://img.shields.io/badge/Seaborn-1A1A1A?style=flat&logo=seaborn&logoColor=white) 
 ![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
 ![WordCloud](https://img.shields.io/badge/WordCloud-5B5B5B?style=flat)
