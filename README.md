@@ -1,4 +1,4 @@
-# CORD-19 Data Explorer: A Python Data Analysis & Web App Project
+# COVID-19 Data Explorer: A Python Data Analysis & Web App Project
 
 ## Live Demo
 
