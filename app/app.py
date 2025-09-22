@@ -9,7 +9,7 @@ from wordcloud import WordCloud
 sns.set(style="whitegrid")
 
 # --- Title and description ---
-st.title("CORD-19 Data Explorer")
+st.title("COVID-19 Data Explorer")
 st.write("""
 Explore a subset of the COVID-19 research papers dataset.
 Visualize publications by year, top journals, paper sources, and most frequent words in titles.
