@@ -14,7 +14,7 @@ Welcome to the **CORD-19 Data Explorer**, a Python project that showcases data a
 
 ## About the Author
 
-**Tijani Ridwan Oluwaseun** 👋, an ND 2 student at **PLP Academy**. This project serves as a practical demonstration of my ability to **load, clean, analyze, and visualize real-world data**, culminating in the deployment of an interactive web application.
+**Tijani Ridwan Oluwaseun** 👋, a software development student at **PLP Academy**. This project serves as a practical demonstration of my ability to **load, clean, analyze, and visualize real-world data**, culminating in the deployment of an interactive web application.
 
 ---
 
