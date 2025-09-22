@@ -76,5 +76,5 @@ Welcome to the **CORD-19 Data Explorer**, a Python project that showcases data a
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-1A1A1A?style=flat&logo=seaborn&logoColor=white)
-![Streamlit](https://img.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) 
+![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
 ![WordCloud](https://img.shields.io/badge/WordCloud-5B5B5B?style=flat)
